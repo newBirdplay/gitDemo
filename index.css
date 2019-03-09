@@ -3,7 +3,16 @@ div{
     height: 100px;
     background: orange;
 }
-p{
+p{  
+    width: 100px;
+    height: 100px;
     background: lime;
     color: blue;
+}
+input {
+    user-select: none;
+    overflow: hidden;
+    width: 100px;
+    height: 100px;
+
 }
